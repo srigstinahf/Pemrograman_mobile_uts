@@ -1,5 +1,11 @@
 # pemmob_uts
-# BRD STUDI KASUS Mobile Apps Sistem Informasi Geografis
+# BRD STUDI KASUS Mobile Apps Sistem Informasi Geografis Desa
+
+Nama: Sri Gustinah Fauziah
+
+NIM: 20220801012
+
+Tema: Mobile Apps Sistem Informasi Geografis Desa
 
 **1.	Business Requirement Definition**
 
@@ -29,7 +35,7 @@ c.	Meminimalisirkan waktu bagi masyarakat dalam pencarian informasi sekolah
 
 **3. Fungsional dan Spesifikasi Kebutuhan**
 
-![Process Flow](assets/image/FLOWCHART PEMMOB.png)
+![Process Flow Apps](assets/image/FLOWCHART_PEMMOB.png)
 
 3.1 Spesifikasi Kebutuhan
 
